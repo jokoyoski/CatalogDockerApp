@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E32343DA-437A-4AAD-922E-F42F930EE2DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.services.ProductCatalogApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.yml">
+    <Files>
+      <File FileName="ProductCatalogApi/appsettings.json" Line="3" Column="54" />
+      <File FileName="ProductCatalogApi/Domain/CatalogType.cs" />
+      <File FileName="ProductCatalogApi/Domain/CatalogBrand.cs" />
+      <File FileName="ProductCatalogApi/Domain/CatalogItem.cs" />
+      <File FileName="ProductCatalogApi/Data/CatalogContext.cs" />
+      <File FileName="ProductCatalogApi/Startup.cs" Line="34" Column="48" />
+      <File FileName="ProductCatalogApi/appsettings.Development.json" />
+      <File FileName="ProductCatalogApi/Data/CatalogSeed.cs" />
+      <File FileName="ProductCatalogApi/Program.cs" />
+      <File FileName="ProductCatalogApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="ProductCatalogApi/Controllers/PictureController.cs" />
+      <File FileName="ProductCatalogApi/Command/Picture.cs" />
+      <File FileName="ProductCatalogApi/Properties/launchSettings.json" />
+      <File FileName="ProductCatalogApi/Domain/CatalogSettings.cs" />
+      <File FileName="ProductCatalogApi/Interface/ICatalog.cs" />
+      <File FileName="ProductCatalogApi/Domain/PaginatedItemViewModel.cs" />
+      <File FileName="ProductCatalogApi/Domain/PaginatedExtension.cs" />
+      <File FileName="ProductCatalogApi/dockerfile" Line="23" Column="29" />
+      <File FileName="docker-compose.yml" Line="13" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoAPP" expanded="True">
+            <Node name="src" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
