@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Projects/TodoAPP/ProductCatalogApi/ProductCatalogApi.csproj": {}
+    "/Users/mac/Downloads/CatalogDockerApp-master/ProductCatalogApi/ProductCatalogApi.csproj": {}
   },
   "projects": {
-    "/Users/mac/Projects/TodoAPP/ProductCatalogApi/ProductCatalogApi.csproj": {
+    "/Users/mac/Downloads/CatalogDockerApp-master/ProductCatalogApi/ProductCatalogApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Projects/TodoAPP/ProductCatalogApi/ProductCatalogApi.csproj",
+        "projectUniqueName": "/Users/mac/Downloads/CatalogDockerApp-master/ProductCatalogApi/ProductCatalogApi.csproj",
         "projectName": "ProductCatalogApi",
-        "projectPath": "/Users/mac/Projects/TodoAPP/ProductCatalogApi/ProductCatalogApi.csproj",
+        "projectPath": "/Users/mac/Downloads/CatalogDockerApp-master/ProductCatalogApi/ProductCatalogApi.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Projects/TodoAPP/ProductCatalogApi/obj/",
+        "outputPath": "/Users/mac/Downloads/CatalogDockerApp-master/ProductCatalogApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/mac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

@@ -31,10 +31,15 @@ namespace ProductCatalogApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<CatalogContext>(options => options.UseSqlServer(Configuration["ConnectionString"]));
-            services.AddControllers();
+             services.AddControllers();
             services.AddScoped<IPicture, Picture>();
             services.AddScoped<ICatalog, Catalog>();
+
+          
+            services.AddDbContext<CatalogContext>(options => options.
+                   UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+           
             services.Configure<CatalogSettings>(Configuration);
         }
 
